@@ -19,7 +19,10 @@ public class Vibration implements ReactPackage {
         );
     }
 
-    @Override
+    /**
+     * remove orverride for compatable with RN 0.47.+
+     */
+    // @Override
     public List<Class<? extends JavaScriptModule>> createJSModules() {
         return Collections.emptyList();
     }
