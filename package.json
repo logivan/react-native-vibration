@@ -1,17 +1,17 @@
 {
-  "name": "react-native-vibration",
-  "version": "0.2.0",
+  "name": "@logivan/react-native-vibration",
+  "version": "1.0.0",
   "description": "Vibration module wrapping VibrationIOS and adding support for android",
   "license": "MIT",
   "main": "Vibration.js",
   "author": {
-    "name": "Andreas Keller",
-    "email": "a.keller@e-guma.ch",
-    "url": "https://www.e-guma.ch"
+    "name": "Logivan SCI",
+    "email": "it@logivan.com",
+    "url": "https://logivan.com"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/ideacreation/react-native-vibration.git"
+    "url": "https://github.com/logivan/react-native-vibration.git"
   },
   "keywords": [
     "react",
